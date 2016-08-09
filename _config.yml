@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-layout                   : "single"
 locale                   : "en"
 title                    : "Mike Fontenot's WordPress Services"
 title_separator          : "-"
@@ -31,6 +30,15 @@ comments:
     colorscheme          : # "light" (default), "dark"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+# Layout settings
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
 # SEO Related
 google_site_verification :
