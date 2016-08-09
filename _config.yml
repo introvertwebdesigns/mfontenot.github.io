@@ -40,7 +40,8 @@ defaults:
     values:
       layout: single
 
-permalink: /blog/:categories/:year/:month/:day/:title.html
+permalink: /blog/:title.html
+
 collections:
   blog:
     output: true
