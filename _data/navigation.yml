@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Blog"
-    url: /_blog/
+    url: /blog/
 
   - title: "Sample Navigation Link 2"
     url: /
