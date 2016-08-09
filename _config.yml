@@ -40,12 +40,9 @@ defaults:
     values:
       layout: single
 
-permalink: /blog/:categories/:year/:month/:day/:title.html
-
 collections:
   blog:
     output: true
-    permalink: /:collection/:path/
 
 # SEO Related
 google_site_verification :
