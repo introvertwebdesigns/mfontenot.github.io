@@ -11,7 +11,7 @@ title                    : "Mike Fontenot's WordPress Services"
 title_separator          : "-"
 name                     : "Mike Fontenot"
 description              : "Offering WordPress site services for everyone"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mikefontenot.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,10 +63,10 @@ analytics:
 author:
   name             : "mike fontenot"
   avatar           : "bio-photo.jpg"
-  bio              : "your personal website guru"
+  bio              : "Your personal WordPress guru, Christian, husband, dad, entrepreneur, geek4life"
   location         : "Louisiana"
   email            :
-  uri              :
+  uri              : "http://mikefontenot.me"
   bitbucket        :
   codepen          :
   dribbble         :
