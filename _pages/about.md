@@ -1,7 +1,10 @@
 ---
 layout: single
-title: about
+title: About
 permalink: /about/
+excerpt: "Offering WordPress Services to small business owners and non-profits"
+header:
+  overlay_color: "#333"
 ---
 
-About me
+About
