@@ -1,1 +1,3 @@
+permalink: /about/
+
 About me
