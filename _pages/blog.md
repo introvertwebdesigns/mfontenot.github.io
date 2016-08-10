@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Mike's Blog"
 permalink: /blog/
 excerpt: "Offering WordPress Services to small business owners and non-profits"
 header:
