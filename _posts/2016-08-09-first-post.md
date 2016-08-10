@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: splash
 title: First Post
 category: Dev
 tags: [geek, web]
