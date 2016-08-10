@@ -3,5 +3,5 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "About"
+    url: /about/
