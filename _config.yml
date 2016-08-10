@@ -40,9 +40,7 @@ defaults:
     values:
       layout: single
 
-collections:
-  blog:
-    output: true
+include: ["_pages"]
 
 # SEO Related
 google_site_verification :
