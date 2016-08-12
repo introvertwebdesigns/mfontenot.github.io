@@ -6,7 +6,7 @@ permalink: /blog/
 
 {% include base_path %}
 
-{% for post in site.blog %}
+{% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
