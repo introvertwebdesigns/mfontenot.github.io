@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Mike's Blog"
+excerpt: "...a place for thoughts"
 permalink: /blog/
 ---
 
