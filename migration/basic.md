@@ -1,7 +1,7 @@
 
 ---
 layout: splash
-title: Basic Migration Service
+title: /migration/basic.md
 permalink: /basic/
 ---
 
