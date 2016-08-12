@@ -49,6 +49,7 @@ defaults:
       type: posts
     values:
       layout: splash
+      title: "Blog"
       excerpt: "...a place for thoughts"
       header:
         overlay_color: "#333"
