@@ -43,8 +43,6 @@ defaults:
       header:
         overlay_color: "#333"
 
-include: ["_pages"]
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
