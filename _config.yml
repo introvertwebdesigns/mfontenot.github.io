@@ -42,6 +42,12 @@ defaults:
       excerpt: "Offering WordPress Services to small business owners and non-profits"
       header:
         overlay_color: "#333"
+  # _blog
+  - scope:
+      path: "_blog"
+      type: posts
+    values:
+      layout: single
 
 # SEO Related
 google_site_verification :
