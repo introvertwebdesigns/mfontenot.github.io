@@ -5,7 +5,7 @@ excerpt: "...for simple migration of your site over to WordPress"
 permalink: /migration/basic/
 ---
 
-We are here to help get your site moved over to WordPress.  The basic migration service is perfect for almost all websites to get you up and running quickly.
+We are here to help get your site moved over to WordPress.  The basic migration service is perfect for most any site to get you up and running quickly.
 
 Here are some guidelines when deciding if you require the basic migration service:
 
