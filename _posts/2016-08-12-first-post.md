@@ -1,5 +1,5 @@
 ---
-date: 2016-08-12
+date: 2016-08-12 17:00:00
 title: WordPress Services
 permalink: /blog/:year/:month/:day/:title/
 ---
