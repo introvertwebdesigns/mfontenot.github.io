@@ -26,6 +26,7 @@ Your site migration should be a smooth process with little or no headache on you
   6. **Go-Live** – This is the best and most exciting part, for you and me!  We will manage the switch from your old site to your new WordPress site, making sure that any changed URLs are being redirected and that your site is up and running successful.
 
 <a name="extras"></a>
+
 ## Migration Service Extras
 
 Our goal is to create the best migration service experience. To only give you the migration and leave you to dry would be a disservice to you and me and is why we also offer the following (included ***free***):
