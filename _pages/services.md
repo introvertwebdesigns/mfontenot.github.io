@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: WordPress Migration Services
+excerpt: "...choose from one of the two services below"
 permalink: /services/
 ---
 
