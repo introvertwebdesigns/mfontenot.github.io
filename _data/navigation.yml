@@ -1,15 +1,14 @@
 # main links links
 main:
+
+  - title: "Basic Migration"
+    url: /migration/basic/
+  
+  - title: "Advanced Migration"
+    url: /migration/advanced/
+    
   - title: "Blog"
     url: /blog/
 
   - title: "About"
     url: /about/
-    
-  - title: "WordPress Services"
-    url: /services/
-    children:
-      - title: "Basic Migration Service"
-        url: /migration/basic/
-      - title: "Advanced Migration Service"
-        url: /migration/advanced/
