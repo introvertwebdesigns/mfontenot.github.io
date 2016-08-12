@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-single
 title: "Mike's Blog"
 permalink: /blog/
 ---
