@@ -11,7 +11,7 @@ Here are some guidelines when deciding if you require the basic migration servic
 
   - **Less than 50 Pages** – The basic migrations are done by hand, moving over all of your content to ensure accuracy and functionality.
   - **Simple Site Functionality** – A basic migration brings over your simple site elements like email subscriptions and contact forms and includes very little, if any, interactive functionality.
-  - **Little Complexity** – WordPress migrations can be complex, but a basic migration is not. If you believe your project is complex, then visit the [advanced migration service](http://mikefontenot.me/migration/advanced) for more information.  You can still fill out the form below and we can talk it through and decide the best fit for your project.
+  - **Little or No Complexity** – WordPress migrations can be complex, but a basic migration is not. If you believe your project is complex, then visit the [advanced migration service](http://mikefontenot.me/migration/advanced) for more information.  You can still fill out the form below and we can talk it through and decide the best fit for your project.
 
 ## Basic Migration Service Overview
 
