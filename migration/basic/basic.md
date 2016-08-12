@@ -45,6 +45,8 @@ We accept payment via Dwolla (preferred) or PayPal.
 
 We offer discounts to non-profit organizations.
 
+<a name="additional"></a>
+
 ## Additional Services
 
 While the migrations services are the main part of our business, you can purchase additional services at special prices after migration is complete. These are a few additional services we offer:
