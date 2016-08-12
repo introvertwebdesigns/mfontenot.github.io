@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: WordPress Services
+title: WordPress Migration Services
 permalink: /services/
 ---
 
-## WordPress Migration Service ##
+## WordPress Migration Services ##
 
 Do you need your current site migrated into WordPress?  Do you want to understand the benefits of using WordPress over your current site?  Take a look at these two migration services below and give me a shout so we can get started.
 
