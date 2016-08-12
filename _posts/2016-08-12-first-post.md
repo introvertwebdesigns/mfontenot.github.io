@@ -3,6 +3,7 @@ date: 2016-08-12 17:00:00
 title: WordPress Services
 permalink: /blog/:year/:month/:day/:title/
 excerpt: ""
+teaser: "There are only 2 current WordPress services we offer, for now, and those are..."
 ---
 
 There are only 2 current WordPress services we offer, for now, and those are a [basic migration](http://mikefontenot.me/migration/basic) and [advanced migration](http://mikefontenot.me/migration/basic) of your current website into WordPress.
