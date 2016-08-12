@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Mike's Blog"
 permalink: /blog/
 ---
