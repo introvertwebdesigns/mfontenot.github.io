@@ -11,3 +11,9 @@ main:
     children:
       - title: "WordPress Migration Services"
         url: /services/
+        
+  - title: "Parent Link 1"
+    url: /about/
+    children:
+      - title: "Child Link 1"
+        url: /services/
