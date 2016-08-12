@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: Basic Migration Service
+excerpt: "for simple migration of your site over to WordPress"
 permalink: /migration/basic/
 ---
 
