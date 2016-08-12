@@ -2,7 +2,7 @@
 ---
 layout: splash
 title: Basic Migration Service
-permalink: /migration/basic/
+permalink: /basic/
 ---
 
 ## WordPress Migration Service ##
