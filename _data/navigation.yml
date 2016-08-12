@@ -6,7 +6,7 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "Consulting Services"
+  - title: "WordPress Services"
     url: /services/
     children:
       - title: "WordPress Basic Migration"
