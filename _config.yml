@@ -49,6 +49,9 @@ defaults:
       type: posts
     values:
       layout: splash
+      excerpt: "...a place for thoughts"
+      header:
+        overlay_color: "#333"
 
 # SEO Related
 google_site_verification :
