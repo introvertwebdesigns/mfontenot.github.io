@@ -7,5 +7,5 @@ main:
     url: /about/
     
   - title: "Consulting Services"
-    - title: "WordPress Migration Services"
+    sublinks: "WordPress Migration Services"
       url: /services/
