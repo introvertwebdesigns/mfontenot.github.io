@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Advanced Migration Service
-excerpt: "...for a more sophisticated site migration over to WordPress"
+excerpt: "...for a more sophisticated website to migrate into WordPress"
 permalink: /migration/advanced/
 ---
 
