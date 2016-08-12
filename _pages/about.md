@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: About
+excerpt: "...hello everyone"
 permalink: /about/
 ---
 
