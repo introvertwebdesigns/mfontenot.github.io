@@ -32,7 +32,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {{ post.teaser }}
+    {{ post.teaser }} <a href="{{ base_path }}{{ post.url }}" rel="permalink">read more</a>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
