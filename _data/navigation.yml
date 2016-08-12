@@ -9,5 +9,7 @@ main:
   - title: "WordPress Services"
     url: /services/
     children:
-      - title: "WordPress Basic Migration"
+      - title: "Basic Migration Service"
         url: /migration/basic/
+      - title: "Advanced Migration Service"
+        url: /migration/advanced/
