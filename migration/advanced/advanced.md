@@ -39,3 +39,7 @@ We can discuss invoicing and payment during the website evaluation step.
 We accept payment via Dwolla (preferred) or PayPal.
 
 We offer discounts to non-profit organizations.
+
+## Additional Services
+
+The additional services we offer can also be found on our [Basic Migration Services](http://mikefontenot.me/migration/basic#additional) page.
