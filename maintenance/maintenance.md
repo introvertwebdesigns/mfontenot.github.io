@@ -10,8 +10,8 @@ We would start with an *initial consultation* of your current site at *$50*.  Th
 
   - **Verifying plugins and theme are up to date**
   - **Quick look for possible faults in code**
-  - **Identify other plugins that may help secure site further**
-  - **Recommendations to secure site**
+  - **Identify other plugins that may help secure your website further**
+  - **Recommendations to secure your site**
 
 If you decide to use us to secure your site, we would begin the work identified in the initial consultation at **$75/hour**.  Depending on the areas identified in the consultation, the entire process could take between 1-4 days.
 
