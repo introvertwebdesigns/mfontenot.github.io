@@ -37,7 +37,7 @@ Our goal is to create the best migration service experience. To only give you th
 
 ## Price & Payments
 
-The basic migration service is $2,500.
+The basic migration service is $1,500.
 
 Upon acceptance of your project and your confirmation of the project schedule and timeline, we will send you an invoice for the full amount, due before the work begins.
 
