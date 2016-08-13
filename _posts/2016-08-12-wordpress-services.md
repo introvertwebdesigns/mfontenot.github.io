@@ -1,0 +1,16 @@
+---
+date: 2016-08-12 17:00:00
+title: WordPress Services
+permalink: /blog/:year/:month/:day/:title/
+teaser: "There are a few WordPress services we offer, for now, and those are..."
+---
+
+There are a few WordPress services we offer, for now, and those are a [basic migration](http://mikefontenot.me/migration/basic) and [advanced migration](http://mikefontenot.me/migration/basic) of your current website into WordPress as well as [maintenance services](http://mikefontenot.me/maintenance).
+
+I feel that these may be the most important these days, with WordPress usage continuing to rise on the web.  While most of the websites we deal with are basic, the basic migration service will be more than enough to cover your small business needs.
+
+WordPress is at the top of the CMS (content management system) ladder, in my opinion.  Content management is the least it can do and is certainly capable of handling a more advanced website.
+
+Check out [Elegant Themes](http://www.elegantthemes.com) and [Theme Forest](https://themeforest.net/) for some examples of themes you can apply to WordPress.  You will not want to go back to the "old" way of doing things once you make the switch to WordPress.
+
+\- Mike
