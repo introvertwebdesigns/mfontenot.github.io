@@ -5,7 +5,7 @@ permalink: /blog/:year/:month/:day/:title/
 teaser: "There are a few WordPress services we offer, for now, and those are..."
 ---
 
-There are a few WordPress services we offer, for now, and those are a [basic migration](http://mikefontenot.me/migration/basic) and [advanced migration](http://mikefontenot.me/migration/basic) of your current website into WordPress as well as [maintenance services](http://mikefontenot.me/maintenance).
+There are a few WordPress services we offer, for now, and those are a [basic migration](http://mikefontenot.me/migration/basic) and [advanced migration](http://mikefontenot.me/migration/basic) of your current website into WordPress as well as ongoing [maintenance services](http://mikefontenot.me/maintenance).
 
 I feel that these may be the most important these days, with WordPress usage continuing to rise on the web.  While most of the websites we deal with are basic, the basic migration service will be more than enough to cover your small business needs.
 
