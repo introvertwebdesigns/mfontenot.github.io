@@ -43,3 +43,9 @@ We offer discounts to non-profit organizations.
 ## Additional Services
 
 The additional services we offer can also be found on our [Basic Migration Services](http://mikefontenot.me/migration/basic#additional) page.
+
+## Are you ready!
+
+[Contact](http://mikefontenot.me/contact) us using the contact form, a quick introduction call, or fill out the form below, putting as much information as possible so we can schedule a site review.
+
+### [Migration Form](http://mikefontenot.me/migration/migrationform)
