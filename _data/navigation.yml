@@ -6,7 +6,10 @@ main:
   
   - title: "Advanced Migration"
     url: /migration/advanced/
-    
+
+  - title: "Site Maintenance"
+    url: /maintenance/
+
   - title: "Blog"
     url: /blog/
 
