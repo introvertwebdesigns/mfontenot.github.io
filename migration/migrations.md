@@ -10,7 +10,7 @@ feature_row:
     btn_label: "Basic Migration"
     btn_class: "btn--inverse"
   - title: "Advanced Migration Service"
-    excerpt: "The basic migration service will cover almost any website, but you want what the advanced migration service offers.  We invite you to take a look at the service page before making this investment."
+    excerpt: "The basic migration service will cover almost any website, but maybe you want what the advanced migration service offers.  We invite you to take a look at the service page before making this investment."
     url: "http://mikefontenot.me/migration/advanced"
     btn_label: "Advanced Migration"
     btn_class: "btn--inverse"
