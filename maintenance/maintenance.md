@@ -16,6 +16,7 @@ We would start with an *initial consultation* of your current site at *$50*.  Th
 If you decide to use us to secure your site, we would begin the work identified in the initial consultation at **$75/hour**.  Depending on the areas identified in the consultation, the entire process could take between 1-4 days.
 
 <a name="additional"></a>
+
 ## Additional WordPress Services / Maintenance
 While the migrations services are the main part of our business, you can purchase additional services at special prices after migration is complete. These are a few additional services we offer:
 
