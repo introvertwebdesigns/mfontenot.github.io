@@ -23,5 +23,3 @@ While the migrations services are the main part of our business, you can purchas
   - **Confirm or update themes and plugins** (**$75/hour** - check out our ongoing support below for savings)
 <a name="ongoing"></a>
   - **Ongoing Support/Updates** – It is possible that you may be too busy running your business that you would prefer us to take care of your new WordPress site in a permanent capacity.  This option would allow us to make unlimited content changes on your site, minor development improvements, manage WordPress backups, updates, and security, and be available via phone to answer questions you have, and be a partner in your team.  We can also include monthly analytics reports with suggestions for improving your site.  Starting at **$250 per month per website**.
-
-\* Check out our [additional services](http://mikefontenot.me/migration/basic#additional) offered for continued service from us.
