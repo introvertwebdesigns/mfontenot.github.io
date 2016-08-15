@@ -4,10 +4,30 @@ title: "Mike's WordPress Services"
 excerpt: "...offering WordPress services for small business owners and non-profits"
 header:
   overlay_color: "#333"
+
+feature_row:
+  - image_path:
+    title: "WordPress Migration Services"
+    excerpt: "These two options are our main WordPress service offerings.  We offer a [basic](http://mikefontenot.me/migration/basic) or [advanced](http://mikefontenot.me/migration/advanced) WordPress migration service."
+    btn_label: "Migration Services"
+    btn_class: "btn--inverse"
+  - image_path:
+    title: "Securing your WordPress Site"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Secure Site"
+    btn_class: "btn--inverse"
+  - image_path: 
+    title: "Ongoing Maintenance of your Site"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_label: "Ongoing Maintenance"
+    btn_class: "btn--inverse"
 ---
 
 <h2>Welcome, have a look around!</h2>
 We currently offer two site to WordPress migration services, <a href="http://mikefontenot.me/migration/basic">basic</a> or <a href="http://mikefontenot.me/migration/advanced">advanced</a> migration services, as well as <a href="http://mikefontenot.me/maintenance">maintenance services</a> for your current WordPress powered site.
+
+{% include feature_row %}
 
 <h2>Recent Thoughts</h2>
 {% for post in site.posts %}
