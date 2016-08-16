@@ -12,6 +12,7 @@ We feel that these may be the most important these days, with WordPress usage co
 WordPress is at the top of the CMS (content management system) ladder, in our opinion.  Content management is the least it can do and is certainly capable of handling a more advanced website.
 
 Check out a couple WordPress Themes sites to get an idea of what WordPress can do for you.  Here are just a couple to get you going:
+
   - [Elegant Themes](http://www.elegantthemes.com)
   - [Theme Isle](http://themeisle.com/wordpress-themes/)
   - [Themeify](https://themify.me/)
