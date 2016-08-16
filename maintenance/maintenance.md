@@ -18,7 +18,7 @@ If you decide to use us to secure your site, we would begin the work identified 
 <a name="additional"></a>
 
 ## Additional WordPress Services / Maintenance
-While the migrations services are the main part of our business, you can purchase additional services at special prices after migration is complete. These are a few additional services we offer:
+While the migrations services are the main part of our business, you can purchase additional services from us with the same high level of satisfaction. Here are a few additional services we offer:
 
   - **Maintain regular backups for your site** (**$20/backup** - check out our ongoing support below for savings)
   - **Confirm or update themes and plugins** (**$75/hour** - check out our ongoing support below for savings)
