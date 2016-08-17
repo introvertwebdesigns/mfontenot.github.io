@@ -24,13 +24,7 @@ Here is our idea of how we should plan this process.
   - **Initial Consultation** – After the review, we can schedule a call to discuss findings, get answers to our questions, and also answer your questions. Here is where we can discuss pricing and timeline and make sure that we are a match for each other (it is possible we may not be, and that is okay).  If we decide to move forward, you will need to pay for a website evaluation and reserve your place on our schedule.
   - **Website Evaluation** – Now that we decided to start together, we can take care of the site evaluation at a scheduled time. During the evaluation, We will work carefully through each page on your site, identify the functionality needed, make note of the areas we have questions, and put together a detailed plan of work that needs to be completed. This is the most important part of the process and we will provide you with a candid evaluation. We will finally present the findings and recommendations to you as a detailed plan of work, with a fixed cost for us to carry out that work and the timeline for completion.
 
-## Migration Service Extras
-
-Our goal is to create the best migration service experience. To only give you the migration and leave you to dry would be a disservice to you and me and is why we also offer the following (included ***free***):
-
-  - **Free Training** – WordPress is fairly intuitive, meaning you may need a small amount of training to get on your feet.  We can work out small training sessions via phone or screen sharing online.
-  - **Free Answers** – Send us an [email](http://mikefontenot.me/contact) or give us a call throughout the migration process to answer any questions you have.
-  - **Free Recommendations** – We can also give you recommendations on how to make WordPress work for you to give you maximum results to run your business.
+{% include /migrationextras/ %}
 
 ## Prices & Payments
 
