@@ -9,7 +9,7 @@ While the basic migration service will cover almost any website, you may have de
 
 Here are some guidelines when deciding if you require the basic migration service:
 
-  - **50 Pages or more + advanced functionality** – Just because your site has over 50 pages may not mean you qualify for the advanced migration, but add more advanced features your current site has and you would probably need this service.  An example of advanced functionality would be: advanced database(s), advanced Javascript or other scripts needed in your new WordPress site, and "I had a developer create this cool 'something or other' and I need that in WordPress".  [Contact](http://mikefontenot.me/contact) us to find out if your site fits this.
+  - **50 Pages or more + advanced functionality** – Just because your site has over 50 pages may not mean your site is fit for the advanced migration, but add in advanced functions your site requires and you would probably need this service.  An example of advanced functionality would be: advanced database(s), advanced Javascript or other scripts needed in your new WordPress site, and "I had a developer create this cool 'something or other' and I need that in WordPress".  [Contact](http://mikefontenot.me/contact) us to find out if your site fits this.
   - **Advanced Functionality** – Your site is out of control (just kidding) with functionality.  An example of this would be: a store with inventory control, advanced payments on your site, or just all around the most advanced site that your developer ever built.  We can [talk](http://mikefontenot.me/contact) about this before the decision is made to go with this service.
   - **Other** - There may be something you identify during our initial review of your site.
 
