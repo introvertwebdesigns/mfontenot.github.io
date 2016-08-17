@@ -30,9 +30,9 @@ These free extras can be found on our [Basic Migration Services](http://mikefont
 
 ## Prices & Payments
 
-The advanced migration service starts at $10,000 because of the intensity of the process.  We ask that you read both [Basic](http://mikefontenot.me/migration/basic) & [Advanced](http://mikefontenot.me/migration/advanced) Migration Services to decide if this one would be a good fit.
+The advanced migration service starts at $5,500 because of the intensity of the process.  We ask that you read both [Basic](http://mikefontenot.me/migration/basic) & [Advanced](http://mikefontenot.me/migration/advanced) Migration Services to decide if this one would be a good fit.
 
-Due to the nature of this service, cost is variable and is unique to each site.  Just to give you an idea, the website evaluation mentioned above is $500.  That pays for some of the time we spend doing the research and planning for your migration project and will secure your spot on our schedule.  The cost for the migration itself will be in the $5,500 – $10,000 range.
+Due to the nature of this service, cost is variable and is unique to each migration.  Just to give you an idea, the website evaluation mentioned above is $500.  That pays for some of the time we spend doing the research and planning for your migration project and will secure your spot on our schedule.  The cost for the migration itself will be in the $5,500 – $10,000 range.
 
 We can discuss invoicing and payment during the website evaluation step.
 
