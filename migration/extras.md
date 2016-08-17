@@ -1,3 +1,7 @@
+---
+permalink: /migrationextras/
+---
+
 ## Migration Service Extras
 
 Our goal is to create the best migration service experience. To only give you the migration and leave you to dry would be a disservice to you and me and is why we also offer the following (included ***free***):
