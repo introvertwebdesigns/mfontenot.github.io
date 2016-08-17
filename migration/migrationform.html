@@ -10,8 +10,10 @@ permalink: /migration/migrationform/
 Please fill out this form as completely as possible.  Question 2 &amp; 4 may help tackle the question of whether this might be a basic or advanced migration project.
 </br> </br>
 
-<form id="migrationForm" name="migrationForm" method="POST" action="http://formspree.io/migration@mikefontenot.me">
+<form id="migrationForm" name="migrationForm" action="http://formspree.io/migration@mikefontenot.me" method="POST">
   <input type="hidden" name="_next" value="http://mikefontenot.me/thankyou">
+  <input type="hidden" name="_subject" value="Migration Form" />
+  <input type="text" name="_gotcha" style="display:none" />
   Name:
   <input type="text" name="Name"> </br> </br>
   Email:
@@ -34,3 +36,5 @@ Please fill out this form as completely as possible.  Question 2 &amp; 4 may hel
   </br>
   <button type="submit" class="btn">Send message</button>
 </form>
+
+{% include form.html %}
