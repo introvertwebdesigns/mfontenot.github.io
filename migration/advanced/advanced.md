@@ -15,7 +15,7 @@ Here are some guidelines when deciding if you require the basic migration servic
 
 ## Advanced Migration Service Overview
 
-You have spent time with a developer, or yourself, and built the most impressive and complex site for your business and want that evaluated and migrated correctly the first time.  We want you to be happy with this service and your new site and will work hard to get you there.  Since this is the most expensive option, we will work with you very closely before deciding this is the path we take.
+You have spent time with a developer, or yourself, and built the most impressive and complex site for your business and want that evaluated and migrated correctly the first time.  We want you to be happy with this service and your new WordPress site and we will work hard to get you there.  Since this is the most expensive option, we will work with you very closely before deciding this is the path we take.
 
 Here is our idea of how we should plan this process.
 
@@ -32,7 +32,7 @@ These free extras can be found on our [Basic Migration Services](http://mikefont
 
 The advanced migration service starts at $10,000 because of the intensity of the process.  We ask that you read both [Basic](http://mikefontenot.me/migration/basic) & [Advanced](http://mikefontenot.me/migration/advanced) Migration Services to decide if this one would be a good fit.
 
-Due to the nature of this service, cost is variable and is unique to each site.  Just to give you an idea, the website evaluation above is $500.  That pays for some of the time we spend doing the research and planning for your migration project and will secure your spot on our schedule.  The cost for the migration itself will be in the $5,500 – $10,000 range.
+Due to the nature of this service, cost is variable and is unique to each site.  Just to give you an idea, the website evaluation mentioned above is $500.  That pays for some of the time we spend doing the research and planning for your migration project and will secure your spot on our schedule.  The cost for the migration itself will be in the $5,500 – $10,000 range.
 
 We can discuss invoicing and payment during the website evaluation step.
 
