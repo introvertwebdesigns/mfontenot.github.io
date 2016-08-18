@@ -55,7 +55,7 @@ defaults:
         overlay_color: "#333"
 
 # SEO Related
-google_site_verification :
+google_site_verification : "UA-82741910-1"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
